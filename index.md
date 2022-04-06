@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to PyOS
 
-You can use the [editor on GitHub](https://github.com/Jaasim2008/pyOS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a Expremental Project, Its Developed by Jaazim
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+See Below More More Information on How to Use The Software!
 
-### Markdown
+### Commands
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Use These Commands in The Command Line :
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```python
+e -> Exit and Quit Application
+mk-file -> Make File in a Given Directory
+mk-dir -> Create a Directory
+edit -> Edit a File 
 ```
+`Root Directory -> ~/root/`
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### In-Build Apps
+- Calculator
+- Weather Stats
 
-### Jekyll Themes
+### About
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jaasim2008/pyOS/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+This Software is Purely Written in Python. Many More Features will Be Added!    
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Thanks For Using!
