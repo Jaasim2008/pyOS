@@ -7,7 +7,7 @@ import webbrowser
 
 colorama.init(autoreset=True)
 
-print(f"{Fore.YELLOW}Welcome to PyOS [vBETA]")
+print(f"{Fore.YELLOW}Welcome to PyOS [1.0]")
 print("")
 print(f"{Fore.RED}Press ENTER to Start")
 input()
