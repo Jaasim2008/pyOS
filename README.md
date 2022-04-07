@@ -12,7 +12,7 @@ Use These Commands in The Command Line :
 e -> Exit and Quit Application
 mk-file -> Make File in a Given Directory
 mk-dir -> Create a Directory
-edit -> Edit a File
+edit -> Edit a Text File
 1 -> Open Calculator
 2 -> Open Weather Stats
 
