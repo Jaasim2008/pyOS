@@ -25,7 +25,9 @@ edit -> Edit a Text File
 
 ### About
 
-This Software is Purely Written in Python. Many More Features will Be Added!    
+PyOS is Textual Operating System Software, Its Compatible with Any Windows Machine!
+
+And Its Purely Written in Python. Many More Features will Be Added!    
 
 Thanks For Using!
 
